@@ -1,4 +1,4 @@
-![](https://github.com/lauvinson/lauvinson/blob/master/005NUljqly1gj12wigoo8j30tu1ck4qp.jpg)
+<!--![](https://github.com/lauvinson/lauvinson/blob/master/005NUljqly1gj12wigoo8j30tu1ck4qp.jpg)-->
 ### Hi there 👋
 
 I'm vinson, I'm a fullstack developer, my website is www.lauvinson.com, welcome to visit it, looking forward to creating with you together
