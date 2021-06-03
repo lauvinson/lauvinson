@@ -1,11 +1,10 @@
+[![Hai Liang Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauvinson&show_icons=true&theme=tokyonight)](https://pre-angel.com/peoples/hailiang-wang/)
 <!--![](https://github.com/lauvinson/lauvinson/blob/master/005NUljqly1gj12wigoo8j30tu1ck4qp.jpg)-->
 ### Hi there 👋
 
 😄 I'm vinson, I'm a fullstack developer, my website is www.lauvinson.com, welcome to visit it, looking forward to creating with you together
 
 ⚡ that's so cool
-
-[![Hai Liang Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauvinson&show_icons=true&theme=tokyonight)](https://pre-angel.com/peoples/hailiang-wang/)
 <!--
 **lauvinson/lauvinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
