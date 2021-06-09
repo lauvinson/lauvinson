@@ -1,4 +1,4 @@
-[![Hai Liang Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauvinson&show_icons=true&theme=tokyonight)](https://pre-angel.com/peoples/hailiang-wang/)
+[![Vinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauvinson&show_icons=true)](https://www.lauvinson.com/)
 <!--![](https://github.com/lauvinson/lauvinson/blob/master/005NUljqly1gj12wigoo8j30tu1ck4qp.jpg)-->
 ### Hi there 👋
 
