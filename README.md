@@ -1,7 +1,7 @@
 [![Vinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauvinson&show_icons=true?count_private=true)](https://www.lauvinson.com/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauvinson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauvinson&layout=compact)](https://www.lauvinson.com/)
 <!--![](https://github.com/lauvinson/lauvinson/blob/master/005NUljqly1gj12wigoo8j30tu1ck4qp.jpg)-->
 ### Hi there 👋
 
