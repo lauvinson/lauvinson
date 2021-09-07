@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vinson</h1>
 <h3 align="center">I'm a fullstack developer, also a musician and more? hah, my website is www.lauvinson.com, welcome to visit it, looking forward to creating with you together</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauvinson" alt="lauvinson" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauvinson" alt="lauvinson" /></a> </p> -->
 
 - 🌱 I’m currently learning **Music,Japanese,English,CS etc.**
 
@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauvinson&" alt="lauvinson" /></p>
 
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1000.jpg)
+<!-- ![](https://game.gtimg.cn/images/lol/act/img/skin/big1000.jpg)
 ![](https://game.gtimg.cn/images/lol/act/img/skin/big1001.jpg)
 ![](https://game.gtimg.cn/images/lol/act/img/skin/big1002.jpg)
 ![](https://game.gtimg.cn/images/lol/act/img/skin/big1003.jpg)
@@ -538,3 +538,4 @@
 ![](https://game.gtimg.cn/images/lol/act/img/skin/big41008.jpg)
 ![](https://game.gtimg.cn/images/lol/act/img/skin/big41014.jpg)
 ![](https://game.gtimg.cn/images/lol/act/img/skin/big41021.jpg)
+ -->
