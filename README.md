@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vinson</h1>
-<h3 align="center">I'm a fullstack developer, also a musician and more? hah, my website is [https://www.lauvinson.com](https://www.lauvinson.com), welcome to visit it, looking forward to creating with you together</h3>
+<h3 align="center">I'm a fullstack developer, also a musician and more? hah, my website is https://www.lauvinson.com, welcome to visit it, looking forward to creating with you together</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauvinson" alt="lauvinson" /></a> </p> -->
 
