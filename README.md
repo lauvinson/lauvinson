@@ -24,8 +24,8 @@ impl Skills {
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauvinson&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauvinson&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lauvinson&theme=github)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauvinson&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lauvinson&theme=github) -->
 
 <!-- ![](https://game.gtimg.cn/images/lol/act/img/skin/big1000.jpg)
 ![](https://game.gtimg.cn/images/lol/act/img/skin/big1001.jpg)
