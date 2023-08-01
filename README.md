@@ -67,6 +67,39 @@ impl DomainKnowledge {
 }
 ```
 
+<!--machine-learning-->
+```mermaid
+graph TD;
+    root-->java;
+    root-->go;
+    root-->python;
+    root-->devops;
+    root-->project-management;
+    root-->music-production;
+    java-->spring;
+    java-->jvm;
+    go-->gin;
+    go-->grpc;
+    python-->flask;
+    python-->django;
+    devops-->shell;
+    devops-->docker;
+    devops-->kubernetes;
+    devops-->drone;
+    devops-->jenkins;
+    project-management-->agile;
+    project-management-->scrum;
+    project-management-->kanban;
+    music-production--> composing;
+    music-production-->ableton-live;
+    music-production-->logic-pro-x;
+    music-production-->native-instruments;
+    native-instruments-->guitar;
+    native-instruments-->piano;
+    native-instruments-->bass;
+    native-instruments-->beat;
+   ```
+
 <!--   stats graph -->
 ### 📈 Activity Graph:
 
@@ -84,54 +117,43 @@ impl DomainKnowledge {
 
 [//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lauvinson" width="auto"></img>)
 
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-
-
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-
 
 <!-- Belarus - My Home-->
   
  ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
+    {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+        114.06666666666666,
+        22.616666666666667
+        ]
+    },
+    "properties": {
+        "name": "Shenzhen",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle",
+        "marker-size": "medium"
+    }
+    }
+    {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+        104.06666666666666,
+        30.666666666666667
+        ]
+    },
+    "properties": {
+        "name": "Chengdu",
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "circle",
+        "marker-size": "medium"
+    }
+    }
 ```
 
 [//]: # ([MIT]&#40;LICENSE&#41;)
