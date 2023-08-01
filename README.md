@@ -1,530 +1,243 @@
-### Hi there 👋
+[//]: # (![]&#40;assets/Bottom_up.svg&#41;)
+
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/lauvinson/lauvinson"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/lauvinson/lauvinson/graphs/contributors"><img src="https://img.shields.io/github/contributors/lauvinson/lauvinson?color=blue"></a>
+    <a href="https://github.com/lauvinson/lauvinson/stargazers"><img src="https://img.shields.io/github/stars/lauvinson/lauvinson.svg?logo=github"></a>
+    <a href="https://github.com/lauvinson/lauvinson/network/members"><img src="https://img.shields.io/github/forks/lauvinson/lauvinson.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=lauvinson.lauvinson" alt="visitors"/>   
+</p>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
+
+<!--   my-kaggle     
+### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
+-->
+
+
+<!--   my-skils 
+
+| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Domain Knownledge**                           | [![Music](https://img.shields.io/badge/-Music-150230?style=flat&logoColor=white)]()[![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/lauvinson/lauvinson) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Alauvinson&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Alauvinson&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Alauvinson&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/lauvinson/lauvinson) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/lauvinson/lauvinson) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/lauvinson/lauvinson)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Databases**                                   | <img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/c44ec7dbcddd4dea22204197ce11e45bea3ef03ff97e45294bf66ea793527706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c7565" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **OS**                                          | <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/b44114213a5a462903bd69611bb6846f1dc41fe6f3230bd37c67c3d4eb65f08c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?style=flat-square&amp;logo=windows&amp;logoColor=blue" style="max-width: 100%;"></a> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475"><img src="https://camo.githubusercontent.com/9c4bc049e33f41f122342a1714ccf872c34098a9f2c593c33c2322cf0129fa04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5562756e74752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7562756e7475" alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&amp;logo=ubuntu" style="max-width: 100%;"></a>                                                                                                                                                                                                                                                                           |
+| **Tools & Platform**                            | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
+-->
 
 ```rust
-struct Portfolio;
+struct Profile;
 
-impl Portfolio {
-    const NAME: &'static str = "lauvinson";
+impl Profile {
+    const NAME: &'static str = "Vinson";
     const LOCATION: &'static str = "Shenzhen, China";
-    const PROFILE: &'static str = "FullStack backend engineer";
-    const EXPERIENCE: &'static str = "5+ years";
+    const ROLE: &'static str = "FSD/BSD";
+    const EXPERIENCE: &'static str = "6+ years";
 }
 
 struct Skills;
 
 impl Skills {
-    const LANGUAGES: [&'static str; 5] = ["Go", "Python", "ECMAScript", "C/C++", "Java/Kotlin"];
+    const LANGUAGES: [&'static str; 5] = ["Jvm", "Go", "Python", "ECMAScript", "C/C++"];
     const OPERATION_SYSTEMS: [&'static str; 3] = ["macOS", "Linux", "Windows"];
     const STORAGES: [&'static str; 5] = ["ClickHouse", "Elastic", "MongoDB", "Redis", "MySQL"];
     const MESSAGE_QUEUES: [&'static str; 3] = ["Kafka", "RocketMQ", "RabbitMQ", "NSQ"];
     const WEB_FRAMEWORKS: [&'static str; 4] = ["gRpc", "Spring", "Flask", "Express"];
     const DEVOPS: [&'static str; 3] = ["Docker", "Drone", "Kubernetes"];
+    const BIG_DATA: [&'static str; 3] = ["Hadoop", "Spark", "Flink"];
+    const MACHINE_LEARNING: [&'static str; 3] = ["TensorFlow", "Jupyter", "Colab", "HuggingFace"];
+}
+
+struct DomainKnowledge;
+
+impl DomainKnowledge {
+    const MUSIC_ENGINEERING: &'static str = "Music Engineering";
+    const COMPUTER_SCIENCE: &'static str = "Computer Science";
+    const SOFTWARE_DEVELOPMENT: &'static str = "Software Development";
+    const MACHINE_LEARNING: &'static str = "Machine Learning";
+    const DIGITAL_MEDIA: &'static str = "Digital Media";
 }
 ```
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![lauvinson's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lauvinson&theme=github-compact)](https://github.com/lauvinson/github-readme-activity-graph)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauvinson&theme=github)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauvinson&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lauvinson&theme=github) -->
+| .                                                                                                                                               | .                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ![lauvinson's github stats](https://github-readme-stats.vercel.app/api?username=lauvinson&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lauvinson&theme=radical&layout=compact) |
 
-<!-- ![](https://game.gtimg.cn/images/lol/act/img/skin/big1000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1011.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1012.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big1013.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Olaf.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big2025.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Galio.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3013.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big3019.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/TwistedFate.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4011.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4013.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big4023.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/XinZhao.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5013.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5020.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big5027.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Urgot.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big6000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big6001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big6002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big6003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big6009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big6015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Leblanc.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7012.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7019.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7020.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7029.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big7033.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Vladimir.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8014.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big8021.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/FiddleSticks.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big9009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Kayle.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big10024.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/MasterYi.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11011.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11024.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big11033.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Alistar.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12019.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12020.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12022.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big12029.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Ryze.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13011.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big13013.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Sion.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14014.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big14022.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Sivir.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big15025.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Soraka.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big16017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Teemo.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17014.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17018.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17025.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big17027.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Tristana.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18011.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18012.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18024.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big18033.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Warwick.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big19035.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Nunu.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big20016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/MissFortune.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21018.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21020.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big21021.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Ashe.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22011.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22023.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big22032.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Tryndamere.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big23010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Jax.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24012.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24013.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24014.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24020.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big24021.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Morgana.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25011.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big25026.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Zilean.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big26000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big26001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big26002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big26003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big26004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big26005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big26006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Singed.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big27010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Evelynn.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big28024.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Twitch.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29012.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29027.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big29036.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Karthus.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big30010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Chogath.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big31014.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Amumu.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32023.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big32024.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Rammus.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big33017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Anivia.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big34017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Shaco.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big35015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/DrMundo.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big36010.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Sona.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37009.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big37017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Kassadin.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big38014.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Irelia.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39015.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39016.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39017.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39018.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big39026.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Janna.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40013.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40020.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big40027.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/champion/Gangplank.png)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41000.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41001.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41002.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41003.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41004.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41005.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41006.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41007.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41008.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41014.jpg)
-![](https://game.gtimg.cn/images/lol/act/img/skin/big41021.jpg)
- -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauvinson"></img>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/lauvinson/lauvinson/blob/output/github-contribution-grid-snake.svg)
+
+<!--   skyline 
+<a href="https://skyline.github.com/lauvinson/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lauvinson" width="auto"></img>
+
+**📫 How to Reach me:**
+<p align="left">
+<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/twitter.svg" alt="lauvinson" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/linkedin.svg" alt="lauvinson" height="30" width="30" /></a>
+<a href="mailto:wincentlauvinson@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+</p>
+
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauvinson" alt="lauvinson" /></a>
+</p>
+
+
+
+
+   <!--machine-learning-->
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
+   
+ 
+
+
+<div align="center">
+<summary>Trophy: Hackerrank Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+
+<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+width="30%">
+
+</p>
+
+
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+
+
+
+<!-- Belarus - My Home-->
+  
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [23.5,53.9],
+             [32.6,52.6]
+         ]
+       ]
+     }
+   }
+ ]
+}
+
+```
+
+
+
+
+
+
+<p align="center"> 
+
+[//]: # (<img src="./src/credly0.png" alt="ibm" width="100%">)
+
+[//]: # (<img src="./src/credly1.png" alt="ibm" width="100%">)
+
+[//]: # (<img src="./src/credly2.png" alt="ibm" width="100%">)
+</p>
+
+
+
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/lauvinson/count.svg">  
+
+counting of visitors to this page in this section started from May 8, 2022
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lauvinson/lauvinson&type=Date)](https://star-history.com/#lauvinson/lauvinson&Date)
+
+
+
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@lauvinson.github.readme)
+</br>
+
+[MIT](LICENSE)
+
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # (  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* )
+
+[//]: # (---)
+
+[//]: # (Would you ike to meet me?)
+
+[//]: # ()
+[//]: # (If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda)
+
+[//]: # ()
+[//]: # (---)
+
+[//]: # (  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* )
+
+[//]: # (---)
+
+![](assets/Bottom_down.svg)
