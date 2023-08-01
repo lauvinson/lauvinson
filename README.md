@@ -122,38 +122,27 @@ graph TD;
 <!-- Belarus - My Home-->
   
  ```geojson
-    {
-    "type": "Feature",
-    "geometry": {
-        "type": "Point",
-        "coordinates": [
-        114.06666666666666,
-        22.616666666666667
-        ]
-    },
-    "properties": {
-        "name": "Shenzhen",
-        "marker-color": "#7e7e7e",
-        "marker-symbol": "circle",
-        "marker-size": "medium"
-    }
-    }
-    {
-    "type": "Feature",
-    "geometry": {
-        "type": "Point",
-        "coordinates": [
-        104.06666666666666,
-        30.666666666666667
-        ]
-    },
-    "properties": {
-        "name": "Chengdu",
-        "marker-color": "#7e7e7e",
-        "marker-symbol": "circle",
-        "marker-size": "medium"
-    }
-    }
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [30.65984,104.10194],
+             [22.55329,113.88308]
+         ]
+       ]
+     }
+   }
+ ]
+}
 ```
 
 [//]: # ([MIT]&#40;LICENSE&#41;)
