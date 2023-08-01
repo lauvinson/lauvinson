@@ -67,15 +67,8 @@ impl DomainKnowledge {
 }
 ```
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![lauvinson's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lauvinson&theme=github-compact)](https://github.com/lauvinson/github-readme-activity-graph)
-
-| .                                                                                                                                               | .                                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| ![lauvinson's github stats](https://github-readme-stats.vercel.app/api?username=lauvinson&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lauvinson&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauvinson"></img>
+<!--   stats graph -->
+### 📈 Activity Graph:
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -88,24 +81,8 @@ impl DomainKnowledge {
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lauvinson" width="auto"></img>
 
-**📫 How to Reach me:**
-<p align="left">
-
-[//]: # (<a href="https://twitter.com/vinsonlauvinson" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/twitter.svg" alt="lauvinson" height="30" width="30" /></a>)
-
-[//]: # (<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/linkedin.svg" alt="lauvinson" height="30" width="30" /></a>)
-<a href="mailto:wincentlauvinson@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lauvinson" alt="lauvinson" /></a>
-</p>
+[//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lauvinson" width="auto"></img>)
 
 
 
@@ -157,65 +134,6 @@ graph TD;
 
 ```
 
-
-
-
-
-
-<p align="center"> 
-
-[//]: # (<img src="./src/credly0.png" alt="ibm" width="100%">)
-
-[//]: # (<img src="./src/credly1.png" alt="ibm" width="100%">)
-
-[//]: # (<img src="./src/credly2.png" alt="ibm" width="100%">)
-</p>
-
-
-
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/lauvinson/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lauvinson/lauvinson&type=Date)](https://star-history.com/#lauvinson/lauvinson&Date)
-
-
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@lauvinson.github.readme)
-</br>
-
-[MIT](LICENSE)
-
-
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # (  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* )
-
-[//]: # (---)
-
-[//]: # (Would you ike to meet me?)
-
-[//]: # ()
-[//]: # (If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # (  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* )
-
-[//]: # (---)
+[//]: # ([MIT]&#40;LICENSE&#41;)
 
 ![](assets/Bottom_down.svg)
