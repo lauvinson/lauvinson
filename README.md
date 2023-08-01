@@ -12,21 +12,12 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+[//]: # (<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>)
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
-
-
-<!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vinson;+Welcome+to+My+Profile!;Over+6+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Go+community+member)](https://git.io/typing-svg)
 
 
 <!--   my-skils 
@@ -101,10 +92,11 @@ impl DomainKnowledge {
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/twitter.svg" alt="lauvinson" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/linkedin.svg" alt="lauvinson" height="30" width="30" /></a>
+
+[//]: # (<a href="https://twitter.com/vinsonlauvinson" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/twitter.svg" alt="lauvinson" height="30" width="30" /></a>)
+
+[//]: # (<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/linkedin.svg" alt="lauvinson" height="30" width="30" /></a>)
 <a href="mailto:wincentlauvinson@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/lauvinson/lauvinson/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <div align="center">
@@ -128,20 +120,6 @@ graph TD;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
    ```
-   
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
 
 
 
