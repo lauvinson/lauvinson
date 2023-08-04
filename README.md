@@ -38,7 +38,7 @@ struct Profile;
 
 impl Profile {
     const NAME: &'static str = "Vinson";
-    const LOCATION: &'static str = "Shenzhen, China";
+    const LOCATION: &'static str = "Chengdu, China";
     const ROLE: &'static str = "FSD/BSD";
     const EXPERIENCE: &'static str = "6+ years";
 }
