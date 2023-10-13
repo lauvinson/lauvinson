@@ -125,10 +125,10 @@ graph TD;
 
 <!--  2d history skills -->
 
-[//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lauvinson" width="auto"></img>)
+<!-- [//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lauvinson" width="auto"></img>)
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-[//]: # ([MIT]&#40;LICENSE&#41;)
+[//]: # ([MIT]&#40;LICENSE&#41;) -->
 
 ![](assets/Bottom_down.svg)
