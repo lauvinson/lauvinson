@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/lauvinson/lauvinson"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+<!--     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> -->
     <a href="https://github.com/lauvinson/lauvinson/graphs/contributors"><img src="https://img.shields.io/github/contributors/lauvinson/lauvinson?color=blue"></a>
     <a href="https://github.com/lauvinson/lauvinson/stargazers"><img src="https://img.shields.io/github/stars/lauvinson/lauvinson.svg?logo=github"></a>
     <a href="https://github.com/lauvinson/lauvinson/network/members"><img src="https://img.shields.io/github/forks/lauvinson/lauvinson.svg?color=blue&logo=github"></a>
@@ -34,6 +34,9 @@
 -->
 
 ```rust
+//
+// Part of open source projects @ open.source.lauvinson.com
+//
 struct Profile;
 
 impl Profile {
@@ -46,11 +49,11 @@ impl Profile {
 struct Skills;
 
 impl Skills {
-    const LANGUAGES: [&'static str; 5] = ["Jvm", "Go", "Python", "ECMAScript", "C/C++"];
+    const LANGUAGES: [&'static str; 5] = ["Jvm", "Go", "Python", "ECMAScript", "C/C++", "Web3"];
     const OPERATION_SYSTEMS: [&'static str; 3] = ["macOS", "Linux", "Windows"];
     const STORAGES: [&'static str; 5] = ["ClickHouse", "Elastic", "MongoDB", "Redis", "MySQL"];
     const MESSAGE_QUEUES: [&'static str; 3] = ["Kafka", "RocketMQ", "RabbitMQ", "NSQ"];
-    const WEB_FRAMEWORKS: [&'static str; 4] = ["gRpc", "Spring", "Flask", "Express"];
+    const WEB_FRAMEWORKS: [&'static str; 4] = ["gRpc", "Spring", "Flask", "Express", "Next"];
     const DEVOPS: [&'static str; 3] = ["Docker", "Drone", "Kubernetes"];
     const BIG_DATA: [&'static str; 3] = ["Hadoop", "Spark", "Flink"];
     const MACHINE_LEARNING: [&'static str; 3] = ["TensorFlow", "Jupyter", "Colab", "HuggingFace"];
